@@ -1,4 +1,5 @@
 % dWPLI statistical analysis
+% coded by Jose Fiel
 clear all; clc; close all;
 
 band = ''; % theta, alpha1, alpha2, beta, logamma
