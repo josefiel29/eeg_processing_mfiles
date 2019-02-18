@@ -1,3 +1,6 @@
+% Minimum Spanning Tree using kruskal's algorithm
+% coded by Jose Fiel
+
 clear all; close all; clc;
 band ='alpha1'; % theta, alpha1, alpha2, beta, logamma 
  
