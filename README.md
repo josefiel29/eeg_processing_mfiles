@@ -1,5 +1,4 @@
-# matlab_codes
-processing codes 
+# processing codes 
 
 This folder contains the matlab scripts used to perform frequency and connectivity analysis
 
