@@ -1,9 +1,9 @@
-% statistical analysis of dwpli 
+% dWPLI statistical analysis
 clear all; clc; close all;
 
 band = ''; % theta, alpha1, alpha2, beta, logamma
 
-load('D:\Diss_Dados\labels1020_novo')
+load('labels1020_new')
 % load 3D matrices (chan x chan x participants = 20 x 20 x 7) 
 uigetfile;
 uigetfile;
