@@ -8,3 +8,4 @@ This folder contains the matlab scripts used to perform frequency and connectivi
 
 *mst_plot.m* is a customized routine used to extract/plot minimum spannig trees from connectivity matrices 
 
+The raw data can be downloaded from google drive: https://drive.google.com/open?id=1a25WuKwtJc6PrBFWvRZOtpMbEm-pL1PA
